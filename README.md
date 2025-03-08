@@ -32,6 +32,10 @@ Cada componente es un ejercicio que me ayuda a comprender mejor cómo manejar el
 ¡me encantaría recibir tus comentarios! 😄 Estoy en una etapa de aprendizaje constante y me encanta compartir lo que voy creando por si algún coder novato le puede servir tambien de ayuda. Si quieres saber más sobre mis proyectos o tienes alguna sugerencia, no dudes en contactarme.
 
 ---
+
+Deployed : [https://cuyssi.github.io/counter-timer/]
+
+---
 📫 Cómo contactarme
 
 - Correo: [[cuyssi@hotmail.com](mailto:cuyssi@hotmail.com)]
