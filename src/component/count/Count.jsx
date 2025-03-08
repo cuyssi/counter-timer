@@ -4,7 +4,7 @@ import './Count.css';
 const Count = () => {
     const [count, setCount] = useState(0)
     const [isCounting, setisCounting] = useState(false);
-    const audioRef = useRef(new Audio("../../../public/cogeNube.mp3"));
+    const audioRef = useRef(new Audio("/counter-timer/cogeNube.mp3"));
     const [bg, setBg] = useState('#242424');
 
     useEffect(() => {
